@@ -1,0 +1,29 @@
+info: Email with ID -234-43 is a duplicate.
+warn: Attempt 1 failed for email -234-asdf43 using provider1: Provider provider1 failed to send email.
+warn: Attempt 2 failed for email -234-asdf43 using provider1: Provider provider1 failed to send email.
+warn: Attempt 3 failed for email -234-asdf43 using provider1: Provider provider1 failed to send email.
+warn: Attempt 1 failed for email -234-asdf43 using provider2: Provider provider2 failed to send email.
+info: Email with ID -234-asdf43 sent successfully using provider2.
+warn: Attempt 1 failed for email -234-asdfasdf43 using provider1: Provider provider1 failed to send email.
+warn: Attempt 2 failed for email -234-asdfasdf43 using provider1: Provider provider1 failed to send email.
+info: Email with ID -234-asdfasdf43 sent successfully using provider1.
+info: Email with ID -234-asdf sent successfully using provider1.
+info: Email with ID -234-we sent successfully using provider1.
+info: Email with ID -234-wwere sent successfully using provider1.
+info: Email with ID -234-wwewerre sent successfully using provider1.
+warn: Attempt 1 failed for email -23wre4-wwewerre using provider1: Provider provider1 failed to send email.
+warn: Attempt 2 failed for email -23wre4-wwewerre using provider1: Provider provider1 failed to send email.
+warn: Attempt 3 failed for email -23wre4-wwewerre using provider1: Provider provider1 failed to send email.
+info: Email with ID -23wre4-wwewerre sent successfully using provider2.
+warn: Attempt 1 failed for email wer-23wre4-wwewerre using provider1: Provider provider1 failed to send email.
+warn: Attempt 2 failed for email wer-23wre4-wwewerre using provider1: Provider provider1 failed to send email.
+warn: Attempt 3 failed for email wer-23wre4-wwewerre using provider1: Provider provider1 failed to send email.
+warn: Attempt 1 failed for email wer-23wre4-wwewerre using provider2: Provider provider2 failed to send email.
+warn: Attempt 2 failed for email wer-23wre4-wwewerre using provider2: Provider provider2 failed to send email.
+info: Email with ID wer-23wre4-wwewerre sent successfully using provider2.
+warn: Attempt 1 failed for email unique-id-123 using provider1: Provider provider1 failed to send email.
+info: Email with ID unique-id-123 sent successfully using provider1.
+info: Email with ID unique-id-12sdf3 sent successfully using provider1.
+warn: Attempt 1 failed for email unique-id-123 using provider1: Provider provider1 failed to send email.
+warn: Attempt 2 failed for email unique-id-123 using provider1: Provider provider1 failed to send email.
+info: Email with ID unique-id-123 sent successfully using provider1.
